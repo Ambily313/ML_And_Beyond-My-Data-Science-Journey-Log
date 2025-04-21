@@ -3,7 +3,7 @@
 
 > **This repository evolves with me — as I experiment, fail fast, learn, and level up.**
 
-Welcome to my data science practice garden 🌼 — where ideas are planted, projects bloom, and knowledge grows through hands-on experience. This space documents my transition beyond data analysis into the expanding world of Machine Learning, Deep Learning, and Generative AI.
+Welcome to my data science journey — a curated space for experimentation and  growth.I combine theory with execution to solve complex problems, transitioning from data analysis into the expanding world of Machine Learning, Deep Learning, and Generative AI..
 
 Each project here is rooted in curiosity and cultivated with care — reflecting my focus on building scalable, thoughtful, and industry-relevant solutions using clean code, modular design, and solid evaluation.
 
