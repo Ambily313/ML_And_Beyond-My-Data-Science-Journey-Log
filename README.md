@@ -1,4 +1,4 @@
-# 🌱🌿 ML & Beyond: My Data Science Journey Log 🌲🌳  
+# 🌱🌿ML & Beyond: My Data Science Journey Log🌲🌳  
 *Learning, Growing, and Building Smarter Systems*
 
 > **This repository evolves with me — as I experiment, fail fast, learn, and level up.**
