@@ -11,8 +11,8 @@ Each project here is rooted in curiosity and cultivated with care — reflecting
 
 ### 🔍 Focus Areas
 -  Supervised & Unsupervised Machine Learning  
--  Deep Learning (ANNs, CNNs, NLP)  
--  Generative AI (LLMs, Prompt Engineering, Text Generation)  
+-  Deep Learning (ANNs, CNNs,RNNs, NLP)  
+-  Generative AI (Transformers,LLMs, Prompt Engineering, Text Generation)  
 -  Feature Engineering & Preprocessing Pipelines  
 -  Model Evaluation, Tuning & Experimentation  
 -  End-to-End Project Architecture  
