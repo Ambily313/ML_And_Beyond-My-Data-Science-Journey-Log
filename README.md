@@ -43,7 +43,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ### ✅ 3. AWS Cloud & Deployment
 
 
-- [AWS Notes for Data Scientists](https://github.com/Ambily313/Road_Map-AWS-Cloud-Deployment-for-Data-Science) – S3, EC2, Lambda (DS Perspective)  
+- [AWS Notes for Data Scientists](https://github.com/Ambily313/Road_Map-AWS-Cloud-Deployment-for-Data-Science) 
 
 ---
 
