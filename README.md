@@ -48,9 +48,12 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 4. Learning Logs & Experimentation
-  
+
+- [Feature Engineering Techniques](https://github.com/Ambily313/Feature-Engineering-Techniques-And-Experiments)
 
 ---
+
+
 
 ### ✅ 5. Tools & Utilities
 
