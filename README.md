@@ -31,7 +31,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 
 ### ✅ 1. Machine Learning & End-to-End Projects
 
-
+- [End to End Project Pipeline](https://github.com/Ambily313/Project-Pipeline-Demo) 
 ---
 
 ### ✅ 2. Deep Learning & Generative AI
