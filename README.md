@@ -9,7 +9,7 @@ Each project here is rooted in curiosity and cultivated with care — reflecting
 
 ---
 
-### 🔍 Focus Areas
+###  Focus Areas
 -  Supervised & Unsupervised Machine Learning  
 -  Deep Learning (ANNs, CNNs,RNNs, NLP)  
 -  Generative AI (Transformers,LLMs, Prompt Engineering, Text Generation)  
@@ -25,7 +25,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 
 ## 📁 Repository Structure
 
-📌 *Newest projects appear first in each category.*
+ *Newest projects appear first in each category.*
 
 ---
 
@@ -48,6 +48,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 4. Learning Logs & Experimentation
+- [PyTorch For Data Science](https://github.com/Ambily313/Pytorch-for-Data-Science)
 - [MongoDB with Python](https://github.com/Ambily313/MongoDB-with-Python---CRUD-Operations)
 - [Feature Engineering Techniques](https://github.com/Ambily313/Feature-Engineering-Techniques-And-Experiments)
 
