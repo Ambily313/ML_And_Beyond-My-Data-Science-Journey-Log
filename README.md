@@ -30,7 +30,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 1. Machine Learning & End-to-End Projects
-
+- [SmartVisa An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval) 
 - [End to End Project Pipeline](https://github.com/Ambily313/Project-Pipeline-Demo) 
 ---
 
@@ -48,7 +48,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 4. Learning Logs & Experimentation
-
+- [MongoDB with Python](https://github.com/Ambily313/MongoDB-with-Python---CRUD-Operations)
 - [Feature Engineering Techniques](https://github.com/Ambily313/Feature-Engineering-Techniques-And-Experiments)
 
 ---
