@@ -48,6 +48,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 4. Learning Logs & Experimentation
+- [GenAi Using LangChain](https://github.com/Ambily313/Generative-AI-Using-LangChain)
 - [PyTorch For Data Science](https://github.com/Ambily313/Pytorch-for-Data-Science)
 - [MongoDB with Python](https://github.com/Ambily313/MongoDB-with-Python---CRUD-Operations)
 - [Feature Engineering Techniques](https://github.com/Ambily313/Feature-Engineering-Techniques-And-Experiments)
