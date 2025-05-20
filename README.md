@@ -22,6 +22,60 @@ Each project here is rooted in curiosity and cultivated with care — reflecting
 
 Whether it’s tuning models, crafting prompts for LLMs, or learning from failed experiments — every project contributes to the forest of knowledge I’m growing.
 
+## 📁 Repository Structure
+
+---
+
+<div align="center">
+
+# ✅ 1.Featured Projects — Real-World Problem Solving in Action
+> 📌 **Each one is crafted with production-level architecture, clean code, and a focus on real-world applications.** 
+## 🔹 [SmartVisa: An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval)
+
+</div>
+
+---
+
+### ✅ 2. Machine Learning & End-to-End Projects
+- [SmartVisa An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval) 
+- [End to End Project Pipeline](https://github.com/Ambily313/Project-Pipeline-Demo) 
+
+---
+
+### ✅ 3. Deep Learning & Generative AI
+
+---
+
+### ✅ 4. AWS Cloud & Deployment
+- [AWS Notes for Data Scientists](https://github.com/Ambily313/Road_Map-AWS-Cloud-Deployment-for-Data-Science) 
+
+---
+
+### ✅ 4. Learning Logs & Experimentation
+- [AWS-S3-Integration-with-Docker](https://github.com/Ambily313/AWS-S3-Integration-with-Docker)  
+- [GenAi Using LangChain](https://github.com/Ambily313/Generative-AI-Using-LangChain)  
+- [PyTorch For Data Science](https://github.com/Ambily313/Pytorch-for-Data-Science)  
+- [MongoDB with Python](https://github.com/Ambily313/MongoDB-with-Python---CRUD-Operations)  
+- [Feature Engineering Techniques](https://github.com/Ambily313/Feature-Engineering-Techniques-And-Experiments)
+
+---
+
+### ✅ 5. Tools & Utilities
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📁 Repository Structure
 
