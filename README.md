@@ -37,7 +37,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 2. Machine Learning & End-to-End Projects
-- [SmartVisa An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval) 
+- [SmartVisa for Predicting US Visa Approval  (Classification)](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval) 
 - [End to End Project Pipeline](https://github.com/Ambily313/Project-Pipeline-Demo) 
 
 ---
@@ -64,58 +64,6 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📁 Repository Structure
-
- *Newest projects appear first in each category.*
-
----
-
-### ✅ 1. Machine Learning & End-to-End Projects
-- [SmartVisa An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval) 
-- [End to End Project Pipeline](https://github.com/Ambily313/Project-Pipeline-Demo) 
----
-
-### ✅ 2. Deep Learning & Generative AI
-
-  
-
----
-
-### ✅ 3. AWS Cloud & Deployment
-
-
-- [AWS Notes for Data Scientists](https://github.com/Ambily313/Road_Map-AWS-Cloud-Deployment-for-Data-Science) 
-
----
-
-### ✅ 4. Learning Logs & Experimentation
-- [GenAi Using LangChain](https://github.com/Ambily313/Generative-AI-Using-LangChain)
-- [PyTorch For Data Science](https://github.com/Ambily313/Pytorch-for-Data-Science)
-- [MongoDB with Python](https://github.com/Ambily313/MongoDB-with-Python---CRUD-Operations)
-- [Feature Engineering Techniques](https://github.com/Ambily313/Feature-Engineering-Techniques-And-Experiments)
-
----
-
-
-
-### ✅ 5. Tools & Utilities
-
-
-
----
 
 ## 🌟 Stay tuned for more projects as I continue this learning journey!
 
