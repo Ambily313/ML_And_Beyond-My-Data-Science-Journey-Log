@@ -28,21 +28,21 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 
 <div align="center">
 
-# ✅ 1.Featured Projects — Real-World Problem Solving in Action
-> 📌 **Each one is crafted with production-level architecture, clean code, and a focus on real-world applications.** 
+# ✅ 1. Portfolio Projects — End to End Solutions
+> 📌 **Built with scalable ML pipelines, modular architecture, and deployment-ready workflows for real-world use cases.** 
 ## 🔹 [SmartVisa: An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval)
 
 </div>
 
 ---
 
-### ✅ 2. Machine Learning & End-to-End Projects
+### ✅ 2. Machine Learning Projects
 - [SmartVisa for Predicting US Visa Approval  (Classification)](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval) 
 - [End to End Project Pipeline](https://github.com/Ambily313/Project-Pipeline-Demo) 
 
 ---
 
-### ✅ 3. Deep Learning & Generative AI
+### ✅ 3. Deep Learning & Generative AI Projects
 
 ---
 
