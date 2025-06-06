@@ -67,6 +67,9 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 
 ---
 
+### ✅ 6. Research Papers & Reading Logs
+
+---
 
 ## 🌟 Stay tuned for more projects as I continue this learning journey!
 
