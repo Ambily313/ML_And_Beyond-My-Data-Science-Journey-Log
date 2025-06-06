@@ -54,7 +54,8 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ### ✅ 4. Learning Logs & Experimentation
 - [AWS-S3-Integration-with-Docker](https://github.com/Ambily313/AWS-S3-Integration-with-Docker)  
 - [GenAi Using LangChain](https://github.com/Ambily313/Generative-AI-Using-LangChain)  
-- [PyTorch For Data Science](https://github.com/Ambily313/Pytorch-for-Data-Science)  
+- [PyTorch For Data Science](https://github.com/Ambily313/Pytorch-for-Data-Science)
+- [Fast API for Machine Learning](https://github.com/Ambily313/FastAPI-For-ML-Projects)
 - [MongoDB with Python](https://github.com/Ambily313/MongoDB-with-Python---CRUD-Operations)  
 - [Feature Engineering Techniques](https://github.com/Ambily313/Feature-Engineering-Techniques-And-Experiments)
 
