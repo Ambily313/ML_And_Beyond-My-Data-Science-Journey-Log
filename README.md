@@ -1,4 +1,4 @@
-# 🌱🌿ML & Beyond: My Data Science Journey Log🌲🌳  
+## 🌱🌿ML & Beyond: My Data Science Journey Log🌲🌳  
 *Learning, Growing, and Building Smarter Systems*
 
 > **This repository evolves with me — as I experiment, fail fast, learn, and level up.**
@@ -28,13 +28,13 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 
 <div align="center">
 
-# ✅ 1. Portfolio Projects — End to End Solutions
+## ✅ 1. Portfolio Projects — End to End Solutions
 > 📌 **Built with scalable ML pipelines, modular architecture, and deployment-ready workflows for real-world use cases.** 
 ## 🔹 [SmartVisa: An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval)
 
 </div>
 
----
+
 
 ### ✅ 2. Machine Learning Projects
 - [SmartVisa for Predicting US Visa Approval  (Classification)](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval) 
@@ -47,13 +47,14 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 4. AWS Cloud & Deployment
-- [AWS Notes for Data Scientists](https://github.com/Ambily313/Road_Map-AWS-Cloud-Deployment-for-Data-Science) 
+- [AWS Notes for Data Scientists](https://github.com/Ambily313/Road_Map-AWS-Cloud-Deployment-for-Data-Science)
+- [AWS-S3-Integration-with-Docker](https://github.com/Ambily313/AWS-S3-Integration-with-Docker)
 
 ---
 
 ### ✅ 4. Learning Logs & Experimentation
-- [AWS-S3-Integration-with-Docker](https://github.com/Ambily313/AWS-S3-Integration-with-Docker)  
-- [GenAi Using LangChain](https://github.com/Ambily313/Generative-AI-Using-LangChain)  
+
+- [GenAI Using LangChain](https://github.com/Ambily313/Generative-AI-Using-LangChain)  
 - [PyTorch For Data Science](https://github.com/Ambily313/Pytorch-for-Data-Science)
 - [Fast API for Machine Learning](https://github.com/Ambily313/FastAPI-For-ML-Projects)
 - [MongoDB with Python](https://github.com/Ambily313/MongoDB-with-Python---CRUD-Operations)  
@@ -62,6 +63,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 5. Tools & Utilities
+- Coming soon... 🚧
 
 ---
 
