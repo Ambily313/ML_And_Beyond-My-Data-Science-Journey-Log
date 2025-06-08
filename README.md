@@ -43,7 +43,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 3. Deep Learning & Generative AI Projects
-
+- Coming soon... 🚧
 ---
 
 ### ✅ 4. AWS Cloud & Deployment
@@ -63,12 +63,13 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 5. Tools & Utilities
-- Coming soon... 🚧
+
+- 
 
 ---
 
 ### ✅ 6. Research Papers & Reading Logs
-
+- [Deep Learning Landmark Research Papers](https://github.com/Ambily313/Deep-Learning-Landmark-Papers) 
 ---
 
 ## 🌟 Stay tuned for more projects as I continue this learning journey!
