@@ -29,8 +29,15 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 <div align="center">
 
 ## ✅ 1. Portfolio Projects — End to End Solutions
-> 📌 **Built with scalable ML pipelines, modular architecture, and deployment-ready workflows for real-world use cases.** 
-## 🔹 [SmartVisa: An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval)
+
+>## 🔹[RAG Based Research Paper Discovery Summarization Tool with A/B Testing](https://github.com/Ambily313/RAG-Based-Research-Paper-Discovery-Summarization-Tool-with-AB-Testing)
+> 📌 **Demonstrating end-to-end ML pipeline development with Retrieval-Augmented Generation (RAG), vector databases, and A/B testing**
+
+---
+
+>## 🔹 [SmartVisa: An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval)
+> 📌  **Built with scalable ML pipelines, modular architecture, and deployment-ready workflows for real-world use cases.** 
+
 
 </div>
 
@@ -43,7 +50,8 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 3. Deep Learning & Generative AI Projects
-- Coming soon... 🚧
+- [RAG Based Research Paper Discovery Summarization Tool with A/B Testing](https://github.com/Ambily313/RAG-Based-Research-Paper-Discovery-Summarization-Tool-with-AB-Testing)
+
 ---
 
 ### ✅ 4. AWS Cloud & Deployment
