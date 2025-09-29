@@ -30,7 +30,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 
 ## ✅ 1. Portfolio Projects — End to End Solutions
 
->## 🔹[RAG Based Research Paper Discovery Summarization Tool with A/B Testing](https://github.com/Ambily313/RAG-Based-Research-Paper-Discovery-Summarization-Tool-with-AB-Testing)
+>## 🔹[RAG Based Research Paper Discovery & Summarization Tool with A/B Testing](https://github.com/Ambily313/RAG-Based-Research-Paper-Discovery-Summarization-Tool-with-AB-Testing)
 > 📌 **Demonstrating end-to-end ML pipeline development with Retrieval-Augmented Generation (RAG), vector databases, and A/B testing**
 
 ---
@@ -50,7 +50,7 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 3. Deep Learning & Generative AI Projects
-- [RAG Based Research Paper Discovery Summarization Tool with A/B Testing](https://github.com/Ambily313/RAG-Based-Research-Paper-Discovery-Summarization-Tool-with-AB-Testing)
+- [RAG Based Research Paper Discovery & Summarization Tool with A/B Testing](https://github.com/Ambily313/RAG-Based-Research-Paper-Discovery-Summarization-Tool-with-AB-Testing)
 
 ---
 
