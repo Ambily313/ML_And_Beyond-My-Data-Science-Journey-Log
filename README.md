@@ -55,8 +55,9 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 ### ✅ 4. AWS Cloud & Deployment
-- [AWS Notes for Data Scientists](https://github.com/Ambily313/Road_Map-AWS-Cloud-Deployment-for-Data-Science)
+- [FastAPI-S3-Image-Manager_Complete-Cloud-Deployment](https://github.com/Ambily313/FastAPI-S3-Image-Manager_Complete-Cloud-Deployment)
 - [AWS-S3-Integration-with-Docker](https://github.com/Ambily313/AWS-S3-Integration-with-Docker)
+- [AWS Notes for Data Scientists](https://github.com/Ambily313/Road_Map-AWS-Cloud-Deployment-for-Data-Science)
 
 ---
 
