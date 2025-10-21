@@ -36,7 +36,10 @@ Whether it’s tuning models, crafting prompts for LLMs, or learning from failed
 ---
 
 >## 🔹 [SmartVisa: An Intelligent System for Predicting US Visa Approval](https://github.com/Ambily313/SmartVisa-An-Intelligent-System-for-Predicting-US-Visa-Approval)
-> 📌  **Built with scalable ML pipelines, modular architecture, and deployment-ready workflows for real-world use cases.** 
+> 📌  **Built with scalable ML pipelines, modular architecture, and deployment-ready workflows for real-world use cases.**
+
+>## 🔹 [End-to-End-FastAPI-Cloud-Deployment-using-AWS-and-GitHub-Actions](https://github.com/Ambily313/End-to-End-FastAPI-Cloud-Deployment-using-AWS-and-GitHub-Actions)
+> 📌  **CI/CD and Cloud Integration with FastAPI & AWS.**
 
 
 </div>
